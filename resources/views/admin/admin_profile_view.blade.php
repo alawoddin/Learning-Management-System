@@ -10,7 +10,7 @@
                 <ol class="breadcrumb mb-0 p-0">
                     <li class="breadcrumb-item"><a href="javascript:;"><i class="bx bx-home-alt"></i></a>
                     </li>
-                    <li class="breadcrumb-item active" aria-current="page">User Profilep</li>
+                    <li class="breadcrumb-item active" aria-current="page">User Profile</li>
                 </ol>
             </nav>
         </div>
@@ -19,10 +19,10 @@
         </div>
     </div>
     <!--end breadcrumb-->
-    <div class="container">
+    <div class="container-fluid">
         <div class="main-body">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-xl-4">
                     <div class="card">
                         <div class="card-body">
                             <div class="d-flex flex-column align-items-center text-center">
