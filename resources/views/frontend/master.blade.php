@@ -41,6 +41,7 @@
 <!--======================================
         START HEADER AREA
     ======================================-->
+  {{-- @include('frontend.body.header') --}}
   @include('frontend.body.header')
 <!--======================================
         END HEADER AREA
