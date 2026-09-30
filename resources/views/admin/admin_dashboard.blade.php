@@ -81,6 +81,10 @@
         new PerfectScrollbar(".app-container")
     </script>
 
+    <script src="{{ asset('backend/assets/js/validate.min.js') }}"></script>
+
+    
+
     <!--Datatable-->
 <script src="{{ asset('backend/assets/plugins/datatable/js/jquery.dataTables.min.js') }}"></script>
 	<script src="{{ asset('backend/assets/plugins/datatable/js/dataTables.bootstrap5.min.js') }}"></script>
